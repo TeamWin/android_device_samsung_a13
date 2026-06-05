@@ -1,4 +1,4 @@
-chmod 777 device/samsung/a13ve/mkbootimg
+chmod 777 device/samsung/a13/mkbootimg
 
 #
 # Copyright (C) 2023 The OrangeFox Recovery Project
