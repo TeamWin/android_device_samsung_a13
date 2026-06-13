@@ -159,6 +159,7 @@ TW_EXCLUDE_DEFAULT_USB_INIT := true
 # PBRP- ONLY FOR PITCH BLACK RECOVERY PROJECT BUILDING
 PB_TORCH_PATH := "/sys/devices/virtual/camera/flash/rear_flash"
 PB_TORCH_MAX_BRIGHTNESS := 1
+PB_BYPASS_DEFAULT_PROPS := ro.bootimage.build.fingerprint; ro.build.fingerprint; ro.build.description; ro.vendor.build.fingerprint; ro.system.build.date; ro.system.build.date.utc; ro.system.build.version.incremental; ro.system.build.fingerprint; ro.build.ab_update; ro.build.version.sdk; ro.build.date; ro.build.date.utc
 
 # Version
 TW_DEVICE_VERSION := SavedByLight A13
