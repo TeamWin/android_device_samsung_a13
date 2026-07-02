@@ -1,4 +1,6 @@
 chmod 777 device/samsung/a13/mkbootimg
+repopick 8695
+repopick 8710
 
 #
 # Copyright (C) 2023 The OrangeFox Recovery Project
